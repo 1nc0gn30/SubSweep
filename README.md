@@ -4,8 +4,8 @@
 
 **Sweep away subscription clutter — track every charge, catch every free trial, see your spend in 3D.**
 
-[![Day 2 of #30Days30Apps](https://img.shields.io/badge/30Days30Apps-Day%202-0ea5e9?style=flat-square)](https://subsweep.netlify.app)
-[![Live](https://img.shields.io/badge/live-subsweep.netlify.app-22c55e?style=flat-square)](https://subsweep.netlify.app)
+[![Day 2 of #30Days30Apps](https://img.shields.io/badge/30Days30Apps-Day%202-0ea5e9?style=flat-square)](https://subsweep-day2.netlify.app)
+[![Live](https://img.shields.io/badge/live-subsweep-day2.netlify.app-22c55e?style=flat-square)](https://subsweep-day2.netlify.app)
 [![Stack](https://img.shields.io/badge/React%2019-%2320232a?logo=react&style=flat-square)](https://react.dev)
 [![Three.js](https://img.shields.io/badge/Three.js-r184-black?logo=three.js&style=flat-square)](https://threejs.org)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&style=flat-square)](https://vitejs.dev)
@@ -157,10 +157,10 @@ To wipe all data: clear site data in your browser, or run `localStorage.removeIt
 
 ## 📚 Day 2 of #30Days30Apps
 
-SubSweep is **Day 2** of my [#30Days30Apps](https://subsweep.netlify.app) challenge — one app, every day, for thirty days. Built solo by **Neal Frazier**.
+SubSweep is **Day 2** of my [#30Days30Apps](https://subsweep-day2.netlify.app) challenge — one app, every day, for thirty days. Built solo by **Neal Frazier**.
 
 - 🐦 Twitter / X: [@neal_frazier](https://twitter.com/neal_frazier)
-- 🌐 Other days: [subsweep.netlify.app](https://subsweep.netlify.app)
+- 🌐 Other days: [subsweep-day2.netlify.app](https://subsweep-day2.netlify.app)
 
 ---
 

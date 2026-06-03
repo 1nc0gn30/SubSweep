@@ -16,4 +16,4 @@ SubSweep helps you track all your subscriptions and free trials in one privacy-f
 - Static single-page application (SPA)
 
 ## URL
-https://subsweep.netlify.app/
+https://subsweep-day2.netlify.app/
