@@ -1,0 +1,107 @@
+# ─────────────────────────────────────────────────────────────
+# SubSweep — gitignore
+# ─────────────────────────────────────────────────────────────
+
+# ─── Dependencies ───
+node_modules/
+.pnp/
+.pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/
+
+# ─── Build output ───
+dist/
+dist-ssr/
+build/
+out/
+.vite/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.vercel/
+.netlify/
+
+# ─── Logs ───
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.pid
+*.seed
+*.pid.lock
+
+# ─── Environment / secrets ───
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+!.env.example
+*.pem
+.netrc
+
+# ─── Editor / OS junk ───
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ─── Testing / coverage ───
+coverage/
+.nyc_output/
+*.lcov
+.eslintcache
+.stylelintcache
+
+# ─── Misc toolchain ───
+.history/
+.temp/
+.tmp/
+tmp/
+.idea_modules/
+.grunt/
+.sass-cache/
+.jest-cache/
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.tsbuildinfo
+*.tsbuildinfo
+
+# ─── Optional npm/yarn integrity files ───
+.eslintcache
+.stylelintcache
+package-lock.json.bak
+yarn.lock.bak
+pnpm-lock.yaml.bak

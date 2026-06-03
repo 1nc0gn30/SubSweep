@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SubSweep — Track & Manage Your Subscriptions</title>
+    <meta name="description" content="SubSweep helps you track all your subscriptions, free trials, and recurring payments in one privacy-first dashboard. No login required. No bank connection. Just clarity." />
+    <meta name="keywords" content="subscription manager, free trial tracker, subscription tracker, manage subscriptions, recurring payments, budget tool, digital declutter" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Neal Frazier" />
+    <meta property="og:title" content="SubSweep — Track & Manage Your Subscriptions" />
+    <meta property="og:description" content="See every subscription you have, what they cost, and when trials expire. All in your browser. No account needed." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://subsweep.netlify.app/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="SubSweep — Track & Manage Your Subscriptions" />
+    <meta name="twitter:description" content="See every subscription you have, what they cost, and when trials expire. All in your browser. No account needed." />
+    <link rel="canonical" href="https://subsweep.netlify.app/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+    <!-- Hidden Netlify form for email reminders -->
+    <form name="reminder-signup" data-netlify="true" hidden>
+      <input type="hidden" name="form-name" value="reminder-signup" />
+      <input type="email" name="email" />
+      <input type="text" name="trials" />
+    </form>
+  </head>
+  <body class="bg-zinc-950 text-zinc-100 font-sans antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+# SubSweep - Subscription & Free Trial Manager
+
+SubSweep helps you track all your subscriptions and free trials in one privacy-first dashboard. No login required. No bank connection. Data stays in your browser.
+
+## Quick Facts
+- Privacy-first: all data in localStorage, zero server tracking
+- Categories: Streaming, Productivity, Fitness, Cloud, News, Food, Gaming, Music, Other
+- Tracks monthly/yearly/weekly billing cycles
+- Free trial countdown with urgency alerts (3-day, 7-day warnings)
+- "What else could this buy?" comparison tool
+- Built by Neal Frazier as Day 2 of #30Days30Apps
+
+## Tech
+- React 19, Vite, Tailwind CSS v4
+- Deployed on Netlify
+- Static single-page application (SPA)
+
+## URL
+https://subsweep.netlify.app/
